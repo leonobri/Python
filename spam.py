@@ -14,5 +14,3 @@ while i<int(limite_msg):
 
 
 i+=1
-
-#spam
